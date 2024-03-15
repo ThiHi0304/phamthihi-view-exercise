@@ -1,0 +1,19 @@
+.task-list-header {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.alert2{
+    width: 260%;
+}
+.alert3{
+    width: 100%;
+}
+.alert .icon{
+    margin-left: 300px;
+}
+.border{
+    border: solid 5px black;
+    border-radius: 10px;
+}
+

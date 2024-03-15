@@ -1,0 +1,146 @@
+.ml{
+    height: 100px;
+}
+.alert-primary{
+    width: 500px;
+}
+.list-group-item-action{
+    margin-bottom: 20px;
+}
+
+.d-flex.ml-5 a {
+    text-decoration: none;
+}
+.d-flex.ml-5 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.d-flex.ml-5 a {
+    margin-top: 15px;
+    font-size: 20px;
+}
+/* Search css*/
+    .search_field-area {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .search_inner {
+        display: flex;
+        align-items: center;
+    }
+
+    .search_field {
+        display: flex;
+        align-items: center;
+    }
+
+    .search_field input {
+        height: 30px;
+        border-radius: 5px 5px;
+        border: 1px solid #ccc;
+        padding: 0 10px;
+    }
+
+    .search_field button {
+        height: 30px;
+        border-radius: 0 5px 5px 0;
+        background-color: #f8f8f8; 
+        padding: 0 10px;
+    }
+
+    .search_field button img {
+        width: 20px;
+        height: auto;
+        display: block;
+    }
+/* CSS ẢNH */
+.profile_info img {
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50%;
+}
+
+/* CSS HEADER */
+.header_iner {
+    background-color: #f8f9fa; 
+    padding: 10px 20px; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+li {
+    list-style: none;
+}
+/* CSS SIDEBAR TRÁI */
+
+    .navbar {
+        width: 350px;
+        background-color: #f8f9fa; 
+        border-right: 1px solid #dee2e6; 
+        height: 100%;
+    }
+
+    .list-group {
+        margin: 20px 0; 
+    }
+
+    .list-group-item-action {
+        color: #212529; 
+        font-weight: bold;
+    }
+
+    .list-group-item-action:hover {
+        background-color: #e9ecef;
+    }
+
+    .fa {
+        margin-right: 10px; 
+    }
+
+    .ml-5 {
+        margin-left: 20px; 
+    }
+
+    .ml-10 {
+        margin-left: 50px;
+    }
+
+    .icon {
+        padding-left: 25px; 
+    }
+/* CSS HEADER SIDERBAR BÊN TRÁI */
+    .sidebar-header {
+        background-color: #f8f9fa;
+        color: #000000; 
+        padding: 10px; 
+        width: 370px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .sidebar-header i {
+        margin-right: 10px; 
+    }
+    .sidebar-header h4 {
+        margin: 0; 
+    }
+    .sidebar-header {
+        color: #070404; /* Màu chữ của header */
+        padding: 10px; /* Khoảng cách giữa các phần tử trong header */
+    }
+    .sidebar-header-content {
+        display: flex; /* Sử dụng flexbox để căn chỉnh theo chiều ngang */
+        align-items: center; /* Căn chỉnh các phần tử theo chiều dọc */
+    }
+    .sidebar-header img {
+        margin-right: 10px; /* Khoảng cách giữa hình ảnh và văn bản */
+        width: 40px; /* Độ rộng của hình ảnh */
+        height: auto; /* Chiều cao tự động điều chỉnh */
+    }
+    .sidebar-header h4 {
+        margin: 0; /* Loại bỏ khoảng cách xung quanh tiêu đề */
+    }
+/* CSS  */
+.chart-container {
+   
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1); /* Hiệu ứng bóng */
+}
